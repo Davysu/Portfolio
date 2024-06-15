@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="375"
+   height="277"
+   viewBox="0 0 375 277"
+   fill="none"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="lista-skills.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12">
+    <rect
+       x="226.13189"
+       y="155.8414"
+       width="63.816361"
+       height="25.896494"
+       id="rect14" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.5208438"
+     inkscape:cx="187.39597"
+     inkscape:cy="138.41001"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <text
+     xml:space="preserve"
+     id="text14"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:12.496px;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect14);display:inline;opacity:1;mix-blend-mode:normal;fill:#666666"
+     transform="matrix(1.8351603,0,0,1.7929268,-194.84682,-127.80215)"><tspan
+       x="226.13281"
+       y="167.40911"
+       id="tspan2">SQL</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.6667px;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:1.08796"
+     x="201.29497"
+     y="131.81528"
+     id="text15"
+     transform="scale(1.0879564,0.91915451)"><tspan
+       sodipodi:role="line"
+       id="tspan15"
+       x="201.29497"
+       y="131.81528"
+       style="stroke-width:1.08796;fill:#666666;-inkscape-font-specification:'Raleway, Heavy';font-family:Raleway;font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal;font-size:22.6667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Git</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.6667px;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:1.08589"
+     x="1.891361"
+     y="22.799"
+     id="text16"
+     transform="scale(0.94961727,1.0530558)"><tspan
+       sodipodi:role="line"
+       id="tspan16"
+       x="1.891361"
+       y="22.799"
+       style="stroke-width:1.08589;-inkscape-font-specification:'Raleway, Heavy';font-family:Raleway;font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal;font-size:22.66670066px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">HTML</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.6667px;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666"
+     x="0.46243551"
+     y="71.215355"
+     id="text17"><tspan
+       sodipodi:role="line"
+       id="tspan17"
+       x="0.46243551"
+       y="71.215355">CSS</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.6667px;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666"
+     x="-0.46243632"
+     y="122.08348"
+     id="text18"><tspan
+       sodipodi:role="line"
+       id="tspan18"
+       x="-0.46243632"
+       y="122.08348">JavaScript</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.6667px;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666"
+     x="1.5029525e-06"
+     y="171.56427"
+     id="text19"><tspan
+       sodipodi:role="line"
+       id="tspan19"
+       x="1.5029525e-06"
+       y="171.56427">GitHub</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.6667px;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:1.06366"
+     x="-1.4957408"
+     y="225.59575"
+     id="text20"
+     transform="scale(1.0172894,0.98300445)"><tspan
+       sodipodi:role="line"
+       id="tspan20"
+       x="-1.4957408"
+       y="225.59575"
+       style="stroke-width:1.06366;-inkscape-font-specification:'Raleway, Heavy';font-family:Raleway;font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal;font-size:22.66670028px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Figma</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.6667px;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666"
+     x="-0.46243712"
+     y="272.37564"
+     id="text21"><tspan
+       sodipodi:role="line"
+       id="tspan21"
+       x="-0.46243712"
+       y="272.37564">VSCode</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.6667px;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666"
+     x="219.19533"
+     y="21.27212"
+     id="text22"><tspan
+       sodipodi:role="line"
+       id="tspan22"
+       x="219.19533"
+       y="21.27212">UX/UI Design</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.6667px;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666"
+     x="219.65776"
+     y="71.677795"
+     id="text23"><tspan
+       sodipodi:role="line"
+       id="tspan23"
+       x="219.65776"
+       y="71.677795">Scrum</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.6667px;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666"
+     x="215.0334"
+     y="219.19533"
+     id="text24"><tspan
+       sodipodi:role="line"
+       id="tspan24"
+       x="215.0334"
+       y="219.19533">Python</tspan></text>
+</svg>
